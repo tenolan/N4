@@ -18,11 +18,11 @@
 
 * Automate the following tasks on EC2.
 
-** setup ActiveMQ on one instance.
+* * setup ActiveMQ on one instance.
 
-** configure basic monitoring on a second instance, that watches ActiveMQ.
+* * configure basic monitoring on a second instance, that watches ActiveMQ.
 
-** automate the whole process starting with instance startup.
+* * automate the whole process starting with instance startup.
 
 * Put your code in GitHub.
 
