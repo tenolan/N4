@@ -12,7 +12,7 @@
  
 === Hints
 
-*There is a "free tier" in AWS, which means you can run t1.micro instances the first hundred hours for free.
+* There is a "free tier" in AWS, which means you can run t1.micro instances the first hundred hours for free.
 
 === Tasks
 
